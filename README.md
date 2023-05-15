@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there✌️
 
+### I'm Zenon Savchenko and I am an active and single-minded Python developer
+
+#### I have good knowledge of Python Core and the most popular frameworks for web development (Django, Flask, DRF, FastAPI). My strongest point is working in a team, the desire to learn, and quick adaptability.
+
+##### Fun fact: Can name all the states in the USA🇺🇸.
 <!--
 **Zenionoi/Zenionoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
